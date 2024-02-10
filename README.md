@@ -1,1 +1,2 @@
 卒業研究で制作したオセロAIです。
+othelloファイルにあるothello.exeで遊べます
